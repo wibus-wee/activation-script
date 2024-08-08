@@ -15,7 +15,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@antfu/eslint-config": "^2.6.4",
+    "@antfu/eslint-config": "^2.25.0",
     "commander": "^12.0.0",
     "eslint": "^8.56.0",
     "typescript": "^5.2.2"
